@@ -1,12 +1,12 @@
-# Bountie Challange
+## Bountie Challange
 
-Integrating “Login With Unstoppable” As A Dapp Login Option
+Login With Unstoppable
 
-# Project name
+## Project name
 
 Sports Stars
 
-# Description
+## Description
 
 Sports Stars is a decentralized fundraising app that allows fans to support their favorite upcoming sports stars. Upon registration, a player is able to receive tokens, early supporters are able to buy and sell their tokens. Share that awesome idea-goal you have been sleeping on for a while so you can find awesome couches or funders to help you create it or discover great athletes from others that you would like to be part of as a funder.
 
@@ -16,13 +16,12 @@ Sports Stars is a decentralized fundraising app that allows fans to support thei
 
 ### Video Demo
 
-- https://youtu.be/_DaDm8g4bAA
+- https://youtu.be/TuEYSEvJ9as
 
 ### Person of contact
 
 - Discord ID: realny#4068
 - UnstoppableDomain registered account email address: realcheapny@gmail.com
-
 
 ### Upcoming Sports Stars application makes use of the following software:
 
